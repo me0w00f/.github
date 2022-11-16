@@ -6,7 +6,7 @@ We are me0w00f security~
 
 ---
 ## Contact us
-Official Email: me0w00f@proton.me
+Official Email: admin@me0w00f.eu.org
 ## Website
 Official Website: me0w00f.eu.org
 > Currently under development
