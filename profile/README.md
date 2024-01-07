@@ -5,8 +5,6 @@ We are me0w00f~
 🙃
 
 ---
-## Contact us
-Official Email: admin@me0w00f.eu.org
 ## Website
-Official Website: me0w00f.eu.org
+Official Website: me0w00f.tech
 > Currently under development
