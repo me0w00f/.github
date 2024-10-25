@@ -6,5 +6,4 @@ We are me0w00f~
 
 ---
 ## Website
-Official Website: me0w00f.tech
-> Currently under development
+Official Website: www.me0w00f.tech
